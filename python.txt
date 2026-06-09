@@ -1,1 +1,6 @@
 Python
+
+1. python ? => 
+	python is a highlevel programing language
+	
+ 
