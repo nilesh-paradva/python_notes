@@ -1,6 +1,39 @@
 Python
 
 1. python ? => 
-	python is a highlevel programing language
+	- python is a highlevel programing language
+	- Guido van Rossum -> 1991 create
+
+2. comment =>
+    	- Single line comment => #
+ 	- Multiline comment => """ """ || ''' '''
+
+3. keyword & identifiers 
+	1. keyword :-
+		=> Python reserved keyword not identifiers use
+		=> import keyword
+		   print(keyword.kwlist)
+	=> Keyword type:-
+                => conditional:- if,else,elif,match,case
+		=> loop:- for,while,break,continue
+		=> function/class:- return,def,lemda,class,yield
+		=> exception handling key :- try,except,finally,raise,asert
+		=> logical:- and,or,not,is,in
+		=> variable scope:- globle,local
+	=> identifiers:-
+		=> variable,function,classes,modules,objects
+
+4. variable :- data store in container similler work
+	=> memory location store value
+	=> start latter or underscore
+	=> cannot start a number
+	=> only containe alpha-numeric & underscore
+	=> python is a case-sensitive 
+
+	-> variable name type:- 
+		1. snack_case
+		2. camelCase
+		3. pascalCase
+		4. UPPERCASE
 	
  
