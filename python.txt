@@ -5,7 +5,7 @@ Python
 	- Guido van Rossum -> 1991 create
 
 2. comment =>
-    	- Single line comment => #
+    - Single line comment => #
  	- Multiline comment => """ """ || ''' '''
 
 3. keyword & identifiers 
@@ -14,7 +14,7 @@ Python
 		=> import keyword
 		   print(keyword.kwlist)
 	=> Keyword type:-
-                => conditional:- if,else,elif,match,case
+        => conditional:- if,else,elif,match,case
 		=> loop:- for,while,break,continue
 		=> function/class:- return,def,lemda,class,yield
 		=> exception handling key :- try,except,finally,raise,asert
@@ -35,5 +35,13 @@ Python
 		2. camelCase
 		3. pascalCase
 		4. UPPERCASE
-	
- 
+
+4. Datatype:- What type of data is stored in the variable
+	=> Numaric -> int,float,complex
+	=> Text -> str
+	=> Boolean -> Bool
+	=> Sequnce -> list(array), tuple, range
+	=> SetType -> set(uniq value), frozenset
+	=> mapping -> dict(object)
+	=> Binary -> bytes, bytearray, memoryview
+	=> NoneType -> none
